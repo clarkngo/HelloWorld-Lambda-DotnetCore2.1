@@ -1,0 +1,11 @@
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/bin/Release/netcoreapp2.1/linux-x64/HelloLambda.deps.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/bin/Release/netcoreapp2.1/linux-x64/HelloLambda.runtimeconfig.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/bin/Release/netcoreapp2.1/linux-x64/HelloLambda.runtimeconfig.dev.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/bin/Release/netcoreapp2.1/linux-x64/HelloLambda.dll
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/bin/Release/netcoreapp2.1/linux-x64/HelloLambda.pdb
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Release/netcoreapp2.1/linux-x64/HelloLambda.csprojAssemblyReference.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Release/netcoreapp2.1/linux-x64/HelloLambda.csproj.CoreCompileInputs.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Release/netcoreapp2.1/linux-x64/HelloLambda.AssemblyInfoInputs.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Release/netcoreapp2.1/linux-x64/HelloLambda.AssemblyInfo.cs
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Release/netcoreapp2.1/linux-x64/HelloLambda.dll
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Release/netcoreapp2.1/linux-x64/HelloLambda.pdb

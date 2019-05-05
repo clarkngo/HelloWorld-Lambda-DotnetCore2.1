@@ -1,0 +1,9 @@
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/bin/Debug/netcoreapp2.1/HelloLambda.deps.json
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/bin/Debug/netcoreapp2.1/HelloLambda.dll
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/bin/Debug/netcoreapp2.1/HelloLambda.pdb
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Debug/netcoreapp2.1/HelloLambda.csprojAssemblyReference.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Debug/netcoreapp2.1/HelloLambda.csproj.CoreCompileInputs.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Debug/netcoreapp2.1/HelloLambda.AssemblyInfoInputs.cache
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Debug/netcoreapp2.1/HelloLambda.AssemblyInfo.cs
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Debug/netcoreapp2.1/HelloLambda.dll
+/Users/clarkngo/dev/dotnet-projects/2.1-environment/HelloLambda/obj/Debug/netcoreapp2.1/HelloLambda.pdb
